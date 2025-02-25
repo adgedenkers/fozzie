@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fozzie"
-version = "0.2.1"
+version = "0.2.3"
 description = "A python library to make dealing with repeated action easier"
 authors = [{ name = "Adge Denkers", email = "adge-code@denkers.co"}]
 readme = "README.md"
