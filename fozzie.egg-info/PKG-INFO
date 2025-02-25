@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: fozzie
-Version: 0.2.0
+Version: 0.2.1
 Summary: A python library to make dealing with repeated action easier
 Author: Adge Denkers
 Author-email: Adge Denkers <adge-code@denkers.co>
@@ -8,7 +8,7 @@ Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: openai
 Requires-Dist: requests
-Requires-Dist: pandas
+Requires-Dist: pandas==2.2.2
 Requires-Dist: numpy
 Requires-Dist: matplotlib
 Requires-Dist: reportlab

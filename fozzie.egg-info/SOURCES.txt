@@ -5,4 +5,3 @@ fozzie.egg-info/SOURCES.txt
 fozzie.egg-info/dependency_links.txt
 fozzie.egg-info/requires.txt
 fozzie.egg-info/top_level.txt
-tests/test_greet.py
