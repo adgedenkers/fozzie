@@ -8,7 +8,7 @@ Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: openai
 Requires-Dist: requests
-Requires-Dist: pandas==2.2.2
+Requires-Dist: pandas==2.2.0
 Requires-Dist: numpy
 Requires-Dist: matplotlib
 Requires-Dist: reportlab

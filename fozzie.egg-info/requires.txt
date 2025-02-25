@@ -1,6 +1,6 @@
 openai
 requests
-pandas==2.2.2
+pandas==2.2.0
 numpy
 matplotlib
 reportlab
