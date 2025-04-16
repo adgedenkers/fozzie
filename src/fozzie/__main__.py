@@ -1,4 +1,4 @@
-# fozzie/main.py
+# fozzie/src/fozzie/main.py
 from fozzie.cli import cli
 
 if __name__ == "__main__":
