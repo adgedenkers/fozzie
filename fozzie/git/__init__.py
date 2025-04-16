@@ -1,0 +1,1 @@
+from fozzie.git.setup import configure_git_global

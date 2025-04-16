@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fozzie"
+version = "0.2.4"
+description = "A python library to make dealing with repeated action easier"
+authors = [{ name = "Adge Denkers", email = "adge-code@denkers.co"}]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "openai",
+    "requests",
+    "pandas==2.2.0",
+    "numpy",
+    "matplotlib",
+    "reportlab",
+    "seaborn"
+
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
