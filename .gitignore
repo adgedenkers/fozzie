@@ -1,0 +1,25 @@
+# ignore environment files and database files
+.env
+*.db
+
+# ignore node modules
+node_modules/
+
+# ignore log files
+*.log
+
+# ignore build output
+dist/
+build/
+out/
+
+# ignore IDE specific files
+.vscode/
+.idea/
+
+# ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# ignore archive files
+archive/*
